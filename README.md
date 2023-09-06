@@ -1,7 +1,7 @@
 # hello-world
 git/github basics review
 
-### Markdown is **fum** because:
+### Markdown is **fun** because:
 
 1. It's easy to learn/use
 2. It looks nice and clean
