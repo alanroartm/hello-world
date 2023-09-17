@@ -3,7 +3,7 @@ git/github basics review
 
 ### Markdown is **fun** because:
 
-1. It's easy to learn/use
+1. what if I change this?
 2. It looks nice and clean
 3. It has a few use cases
 
@@ -19,3 +19,6 @@ git/github basics review
 ---
 
 ###### ~~Strikethrough heading lol~~
+
+
+adlfjghaldskjfghladkjfhglkjsdhflgskjdgshld
