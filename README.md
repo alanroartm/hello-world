@@ -1,4 +1,4 @@
-# hello-world
+# hello
 git/github basics review
 
 ### Markdown is **fun** because:
