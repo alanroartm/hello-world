@@ -15,7 +15,7 @@ git/github basics review
 3. It has a few use cases
 
 ### My most frequent grocery list items are:
-
+WHAT AM I DOING AHHHHHHH    
 - Avocados 
 - Onion
 - Eggs
